@@ -10,3 +10,7 @@
 html{
     line-height: 1.30;
 }
+
+body{
+    margin: 0;
+}
