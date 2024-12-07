@@ -3,12 +3,22 @@
    0.12 sürümü
 */
 
-[lang="en"]{
+html{
+    line-height: normal;
+}
+
+[lang|="en"],
+[lang|="ru"]{
     line-height: 1.15;
 }
 
-html{
-    line-height: 1.30;
+[lang|="ar"]{
+    line-height: 1.20;
+}
+
+[lang|="tr"],
+[lang|="el"]{
+    line-height: 1.25;
 }
 
 body{
