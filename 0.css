@@ -3,6 +3,10 @@
    0.12 sürümü
 */
 
+*{
+    box-sizing: border-box;
+}
+
 html{
     line-height: normal;
 }
