@@ -1,4 +1,4 @@
 # 0.css
-Öntanımlı değerleri ortak değerde buluşturan CSS
+CSS yazarak tasarıma başlamadan önce 0.css ile sıfırla ortak.
 
 data-deveb ve bağımsız geliştiriciler eli ile içine 🧠+💖 katarak yapılmaktadır.
