@@ -1,6 +1,6 @@
 /* https://data-deveb.github.io/
    https://data-deveb.github.io/0.css
-   0.12 sürümü
+   0.13 sürümü
 */
 
 *{
@@ -9,6 +9,7 @@
 
 html{
     line-height: normal;
+    font-size: 12pt;
 }
 
 [lang|="en"],
@@ -28,3 +29,10 @@ html{
 body{
     margin: 0;
 }
+
+h1{font-size: 2.0rem;}
+h2{font-size: 1.6rem;}
+h3{font-size: 1.4rem;}
+h4{font-size: 1.2rem;}
+h5{font-size: 1.1rem;}
+h6{font-size: 1.0rem;}
