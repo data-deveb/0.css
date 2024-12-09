@@ -30,9 +30,25 @@ body{
     margin: 0;
 }
 
-h1{font-size: 2.0rem;}
-h2{font-size: 1.6rem;}
-h3{font-size: 1.4rem;}
-h4{font-size: 1.2rem;}
-h5{font-size: 1.1rem;}
-h6{font-size: 1.0rem;}
+h1{
+    font-size: 2.0rem;
+}
+h2{
+    font-size: 1.6rem;
+}
+h3{
+    font-size: 1.4rem;
+}
+h4{
+    font-size: 1.2rem;
+}
+h5{
+    font-size: 1.1rem;
+}
+h6{
+    font-size: 1.0rem;
+}
+
+p:has(param){
+    text-indent: 4ch;
+}
