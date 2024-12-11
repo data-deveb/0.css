@@ -49,6 +49,6 @@ h6{
     font-size: 1.0rem;
 }
 
-p:has(param){
+article > p{
     text-indent: 4ch;
 }
