@@ -1,6 +1,6 @@
 /* https://data-deveb.github.io/
    https://data-deveb.github.io/0.css
-   0.13 sürümü
+   0.131 sürümü
 */
 
 *{
@@ -49,6 +49,6 @@ h6{
     font-size: 1.0rem;
 }
 
-article > p{
+article p{
     text-indent: 4ch;
 }
