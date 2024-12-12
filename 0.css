@@ -28,6 +28,9 @@ html{
 
 body{
     margin: 0;
+article{
+    max-width: 85ch;
+}
 article p{
     text-indent: 3ch;
 }
