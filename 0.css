@@ -3,7 +3,9 @@
    0.14 sürümü
 */
 
-*{
+*,
+*::before,
+*::after{
     box-sizing: border-box;
 }
 
