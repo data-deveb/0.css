@@ -71,3 +71,6 @@ article p{
     text-indent: 3ch;
 }
 
+figure{
+    margin-inline-start: 3ch;
+}
