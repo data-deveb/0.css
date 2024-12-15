@@ -1,19 +1,19 @@
 # 0.css
 CSS yazarak tasarıma başlamadan önce 0.css ile sıfırla.
 
-data-deveb ve bağımsız geliştiriciler eli ile içine 🧠+💖 katarak yapılmaktadır.
+El ele verip 🧠+💖 katarak yapıyoruz.
 
-# Abecelere Göre
+# Abecelere Göre Satır Yüksekliği
 
-Türlü türlü abeceler ile yazılan yazıların okunaklığını korumak için olması gereken yükseklikler için en alçak değerler 0.css'de tanımlıdır. Dillerin çoğu Latin kökenli İngiliz abecesinin yazı damgalarını kullanmaz. Ö, Ü  gibi özel damgaları olan abeceler ile yazılan yazılar için yükseklik değerleri 0.css'de arttırılmıştır.
+Farklı yazı düzenlerinde yazıların okunabilir olması için satır yüksekliği belirlenmelidir. Bu farklılıklar yüzünden ortak bir değer koyup kullanmak söz konusu olamaz. Yalnızca HTML kodlarınızda ```lang="tr"``` gibi hangi dilde yazdığınızı belirtin ve abecelere göre satır yüksekliğini atamış olun.
 
-# Başlıklara Çeki Düzen
+# Ardışık Başlık Boyları
 
-h1~h6 arası tanımlı başlıkların boyları 1 kattan 2 kata dek boylarda olacak biçimde ardışık olarak tanımlanmıştır. Örneğin h1 etiketi ile başlık yazarsanız barsayılan yazı damgası boyunun 2 katı boyunda görünüşü olan başlık yazmış olursunuz.
+h1~h6 arası tanımlı başlıkların boyları dengelendi. H1 etiketi ile yazılan başlığın boyu düz yazısının iki katıdır. H6'ya doğru gittikçe başlık boyları küçülmektedir.
 
-# Makale Paragraflarına Girinti
+# Makalede Paragraf Başına Girinti
 
-Makale yazdığınızda bunu HTML'de article etiketi içinde yazarsanız ve p etiketi kullanarak paragraflarınızı yazmayı sürdürürseniz her paragraf için 3 damgalık girinti oluşacaktır.
+Makale paragraflarını HTML'de ```<article></article>``` etiketi arasında ```<p></p>``` etiketi kullanarak yazdığınızda paragrafların başında 3 damgalık girinti oluşur.
 
 # Serme Yüksekliği
 
