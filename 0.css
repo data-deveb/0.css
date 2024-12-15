@@ -39,10 +39,9 @@ body{
 
 article{
     max-width: 85ch;
-}
-
-article p{
-    text-indent: 3ch;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
 }
 
 h1{
@@ -67,3 +66,8 @@ h6{
 h1, h2, h3, h4, h5, h6{
     margin-block-end: 0;
 }
+
+article p{
+    text-indent: 3ch;
+}
+
