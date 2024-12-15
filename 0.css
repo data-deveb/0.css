@@ -14,6 +14,9 @@ html{
     min-height: 100%;
     line-height: normal;
     font-size: 12pt;
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
 }
 
 [lang|="en"],
