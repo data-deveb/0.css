@@ -39,6 +39,7 @@ html{
     display: flex;
     min-height: 100%;
     line-height: normal;
+    font-family: Arial, sans-serif;
     font-size: 12pt;
     -moz-text-size-adjust: none;
     -webkit-text-size-adjust: none;
