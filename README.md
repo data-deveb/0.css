@@ -3,7 +3,10 @@ CSS yazarak tasarıma başlamadan önce 0.css ile sıfırla.
 
 El ele verip 🧠+💖 katarak yapıyoruz.
 
-# SINAMALARA GÖZ AT
+# [Son Sürümü Elde Etmek İçin Tıklayınız](https://data-deveb.github.io/0.css/0.css)
+Doğrudan açılan CSS belgesini dilerseniz indirip HTML'e ekleyebilirsiniz. Dilerseniz içeriğinin hepsini seçip kendi CSS belgenize eklemek için kopyalayabilirsiniz.
+
+# Sınamalara Göz At
 
 - [0001'inci sınamayı tıklayıp incele.](https://data-deveb.github.io/0.css/sınama/0001) Bu sınamada daha çok article etiketi ve kapsadıkları ile ilgili sınamaları göreceksiniz.
 
