@@ -3,6 +3,10 @@ CSS yazarak tasarıma başlamadan önce 0.css ile sıfırla.
 
 El ele verip 🧠+💖 katarak yapıyoruz.
 
+# SINAMALARA GÖZ AT
+
+- [0001'inci sınamayı tıklayıp incele.](https://data-deveb.github.io/0.css/sınama/0001) Bu sınamada daha çok article etiketi ve kapsadıkları ile ilgili sınamaları göreceksiniz.
+
 # Abecelere Göre Satır Yüksekliği
 
 Farklı yazı düzenlerinde yazıların okunabilir olması için satır yüksekliği belirlenmelidir. Bu farklılıklar yüzünden ortak bir değer koyup kullanmak söz konusu olamaz. Yalnızca HTML kodlarınızda ```lang="tr"``` gibi hangi dilde yazdığınızı belirtin ve abecelere göre satır yüksekliğini atamış olun.
@@ -26,3 +30,7 @@ Makale paragraflarını HTML'de ```<article></article>``` etiketi arasında ```<
 # Sergileme Alanını Kaplayan Yükseklik
 
 HTML'de ```<body></body>``` etiketi artık baştan aşağı tüm yüksekliği kaplar biçimde olacak.
+
+# Aydınlık - Karanlık Tema Etkisi
+
+Günümüzde temalar iki yüzlü sunulmakta. Bir onlarca yıldır tanıdığımız ağırlıklı olarak ak renk üzerine yapılan temalar. Son yıllarda ise kullananların sayısının arttığı kara renk üzerine yapılanlar. Bunun için 0.css ile bir sıfırlama yapılmaktadır.
