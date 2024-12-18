@@ -4,14 +4,25 @@
 */
 
 :root{
-    --text-color: #000;
-    --bg-color: #fff;
+    /* AYDINLIK TEMA */
+    --light-text-color: #000;
+    --light-background-color: #fff;
+    /* KARANLIK TEMA */
+    --dark-text-color: #fff;
+    --dark-background-color: #000;
+}
+
+@media (prefers-color-scheme: light) {
+    :root{
+        --text-color: var(--light-text-color);
+        --background-color: var(--light-background-color);
+    }
 }
 
 @media (prefers-color-scheme: dark) {
     :root{
-        --text-color:#fff;
-        --bg-color: #000;
+        --text-color: var(--dark-text-color);
+        --background-color: var(--dark-background-color);
     }
 }
 
@@ -52,7 +63,7 @@ body{
     min-width: 100%;
     min-height: 100%;
     color: var(--text-color);
-    background-color: var(--bg-color);
+    background-color: var(--background-color);
 }
 
 article{
