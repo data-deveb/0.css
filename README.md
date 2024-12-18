@@ -6,9 +6,11 @@ El ele verip 🧠+💖 katarak yapıyoruz.
 # [Son Sürümü Elde Etmek İçin Tıklayınız](https://data-deveb.github.io/0.css/0.css)
 Doğrudan açılan CSS belgesini dilerseniz indirip HTML'e ekleyebilirsiniz. Dilerseniz içeriğinin hepsini seçip kendi CSS belgenize eklemek için kopyalayabilirsiniz.
 
-# Sınamalara Göz At
+## [💬 Görüş, istek, sızı ve dahasını bize yazmak için buraya tıklayınız.](https://github.com/data-deveb/0.css/discussions)
 
-- [0001'inci sınamayı tıklayıp incele.](https://data-deveb.github.io/0.css/sınama/0001) Bu sınamada daha çok article etiketi ve kapsadıkları ile ilgili sınamaları göreceksiniz.
+## Sınamalara Göz Atın
+
+- [0001'inci sınamayı tıklayıp incele.](https://data-deveb.github.io/0.css/sınama/0001) Bu sınamada daha çok article etiketi ve kapsadıkları ile ilgili sınamaları göreceksiniz. Son sürümün etkileri geçerlidir.
 
 # Abecelere Göre Satır Yüksekliği
 
