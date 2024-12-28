@@ -3,7 +3,12 @@ CSS yazarak tasarıma başlamadan önce 0.css ile sıfırla.
 
 El ele verip 🧠+💖 katarak yapıyoruz.
 
-# [Son Sürümü Elde Etmek İçin Tıklayınız](https://data-deveb.github.io/0.css/0.css)
+# Hemen Ekleyip Başla
+```html
+ <link rel="stylesheet" href="/0.css">
+```
+
+# [Güncel Sürümü İndir](https://data-deveb.github.io/0.css/0.css)
 Doğrudan açılan CSS belgesini dilerseniz indirip HTML'e ekleyebilirsiniz. Dilerseniz içeriğinin hepsini seçip kendi CSS belgenize eklemek için kopyalayabilirsiniz.
 
 ## [💬 Görüş, istek, sızı ve dahasını bize yazmak için buraya tıklayınız.](https://github.com/data-deveb/0.css/discussions)
